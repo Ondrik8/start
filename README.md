@@ -20,7 +20,7 @@
 
 [/POST эксплуатация](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
-[/Боковое движенеи](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/Боковое движенеие](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
 [/WEB hacking](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
@@ -32,7 +32,7 @@
 
 [/Solder hand_made](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
-[/Иследования](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/Исcледования](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
 [/Source code](https://github.com/threatland/TL-BOTS/tree/master/TL.BOTNET)
 
