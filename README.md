@@ -1,5 +1,8 @@
 ## Zаписки человека c ником "Ondrik8"
->Mein Kampf
+>Mein Kampf :sunglasses:
+
+contact:
+> telegram @ondrik8
 
 Будни, пометки, мысли, записки.
 
