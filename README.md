@@ -6,7 +6,7 @@
 ### Основные темы:
 [/LINKS/awesome](https://github.com/enaqx/awesome-pentest)
 
-[/EXPLOIT/Заражение](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/EXPLOIT/Заражение](https://github.com/Ondrik8/exploit/)
 
 [/NET scanner](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
