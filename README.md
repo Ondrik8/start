@@ -1,7 +1,7 @@
 # **Zаписки человека c ником "Ondrik8"**
 
 
-![Image](https://media.istockphoto.com/vectors/hacker-hack-icon-in-neon-style-can-be-used-for-web-logo-mobile-app-ui-vector-id1148898156?k=6&m=1148898156&s=170667a&w=0&h=VCTjyg0VoUd_S89getrTUEQ8qSqvxLlrRker69PtA58=)
+<img width="500" height="350" src="/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true" alt="Awesome" style="max-width:100%;">
 
 _telegram: >_  `@ondrik8`
 
