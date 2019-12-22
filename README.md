@@ -3,7 +3,7 @@
 
 telegram: >  @ondrik8
 
-
+**Bold** and _Italic_ and `Code` text
 
 
 ### Основные темы:
