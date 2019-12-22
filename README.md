@@ -1,10 +1,10 @@
-## Zаписки человека c ником "Ondrik8"
->Mein Kampf :sunglasses:
-
-contact:
-> telegram @ondrik8
-
+# Zаписки человека c ником "Ondrik8"
 Будни, пометки, мысли, записки.
+
+:email: telegram:
+>  @ondrik8
+
+
 
 ### Основные темы:
 [/LINKS/awesome](https://github.com/enaqx/awesome-pentest)
