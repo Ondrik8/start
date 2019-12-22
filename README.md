@@ -1,8 +1,8 @@
 # Zаписки человека c ником "Ondrik8"
 Будни, пометки, мысли, записки.
 
-:email: telegram:
->  @ondrik8
+telegram: >  @ondrik8
+
 
 
 
