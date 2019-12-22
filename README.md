@@ -22,6 +22,8 @@
 
 [/Боковое движенеие](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
+[/OSCP pasties](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+
 [/WEB hacking](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
 [/Radio attack](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
