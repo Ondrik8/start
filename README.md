@@ -4,11 +4,15 @@
 Будни, пометки, мысли, записки.
 
 ### Основные темы:
+[/LINKS/awesome](https://github.com/enaqx/awesome-pentest)
+
 [/EXPLOIT/Заражение](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
 [/NET scanner](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
 [/NET attack](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+
+[/INSTRUMENT_C2](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
 [/MITM](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
@@ -29,6 +33,8 @@
 [/Solder hand_made](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
 [/Иследования](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+
+[/Source code](https://github.com/threatland/TL-BOTS/tree/master/TL.BOTNET)
 
 [/Raznoe](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
