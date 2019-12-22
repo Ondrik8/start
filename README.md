@@ -1,9 +1,9 @@
-# Zаписки человека c ником "Ondrik8"
+# **Zаписки человека c ником "Ondrik8"**
 
 
-telegram: >  @ondrik8
+_telegram: >_  `@ondrik8`
 
-**Bold** and _Italic_ and `Code` text
+
 
 
 ### Основные темы:
