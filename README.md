@@ -1,8 +1,8 @@
 # **Zаписки человека c ником "Ondrik8"**
 
-
+<body>
 <img width="500" height="350" src="/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true" alt="Awesome" style="max-width:100%;">
-
+</body>
 _telegram: >_  `@ondrik8`
 
 
