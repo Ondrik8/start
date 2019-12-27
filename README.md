@@ -23,7 +23,7 @@ _telegram: >_  `@ondrik8`
 
 [/POST эксплуатация](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
-[/Боковое движенеие](https://github.com/Ondrik8/lateral_movement)
+[/Боковое движенеие](https://ondrik8.github.io/lateral_movement/)
 
 [/OSCP pasties](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
