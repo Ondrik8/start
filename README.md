@@ -25,7 +25,7 @@ _telegram: >_  `@ondrik8`
 
 [/Боковое движенеие](https://ondrik8.github.io/lateral_movement/)
 
-[/OSCP pasties](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/OSCP pasties](https://ondrik8.github.io/OSCP_note/)
 
 [/ByPass_AV](https://ondrik8.github.io/byPass_AV/)
 
