@@ -1,7 +1,7 @@
 # **Zаписки человека c ником "Ondrik8"**
 
 
-_telegram: >_  `@ondrik8`
++telegram: >  `@ondrik8`
 
 
 
