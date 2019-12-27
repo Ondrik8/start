@@ -29,7 +29,7 @@ _telegram: >_  `@ondrik8`
 
 [/WEB hacking](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
-[/Radio attack](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/Radio attack](https://github.com/insecurityofthings/jackit)
 
 [/CAR attack](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
