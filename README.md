@@ -13,11 +13,7 @@
 
 [/NET scanner](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
-[/NET attack](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
-
-[/INSTRUMENT_C2](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
-
-[/MITM](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/NET attack](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network_Attacks.md)
 
 [/RED-Team](https://ondrik8.github.io/RED_Team/)
 
@@ -31,7 +27,7 @@
 
 [/Radio attack](https://github.com/insecurityofthings/jackit)
 
-[/CAR attack](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/CAR attack](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cars.md)
 
 [/HARD drive attack](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
@@ -43,7 +39,7 @@
 
 [/Raznoe](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-[Zametki](https://ondrik8.github.io/zametki/)
+[/Zametki](https://ondrik8.github.io/zametki/)
 
-[/CTF](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/RaspberyPI](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
