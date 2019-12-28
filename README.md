@@ -7,7 +7,7 @@
 
 
 ### Основные темы:
-[/LINKS/awesome](https://github.com/enaqx/awesome-pentest)
+[/LINKS/](https://ondrik8.github.io/Links/)
 
 [/EXPLOIT/Заражение](https://ondrik8.github.io/exploit/)
 
