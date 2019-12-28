@@ -41,7 +41,7 @@
 
 [/Source code](https://github.com/threatland/TL-BOTS/tree/master/TL.BOTNET)
 
-[/Raznoe](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/Raznoe](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 [/CTF](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
