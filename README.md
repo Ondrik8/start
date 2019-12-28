@@ -1,12 +1,14 @@
 # **Zаписки человека c ником "Ondrik8"**
 
 
-+telegram: >  `@ondrik8`
+#### Contact:
+-telegram:          >  `@ondrik8`
+-twitter(private)   >  `@ondrik8_apt28`
+-jabber             >  `ondrik8@xmpp.jp`
 
 
+### Основные темы: 
 
-
-### Основные темы:
 [/LINKS/](https://ondrik8.github.io/Links/)
 
 [/EXPLOIT/Заражение](https://ondrik8.github.io/exploit/)
