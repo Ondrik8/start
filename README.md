@@ -13,7 +13,7 @@
 
 [/RED-Team](https://ondrik8.github.io/RED_Team/)
 
-[/POST эксплуатация](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/POST эксплуатация](https://ondrik8.github.io/Post_exploit/)
 
 [/Боковое движенеие](https://ondrik8.github.io/lateral_movement/)
 
