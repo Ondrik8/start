@@ -11,10 +11,6 @@
 
 [/EXPLOIT/Заражение](https://ondrik8.github.io/exploit/)
 
-[/NET scanner](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
-
-[/NET attack](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network_Attacks.md)
-
 [/RED-Team](https://ondrik8.github.io/RED_Team/)
 
 [/POST эксплуатация](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
