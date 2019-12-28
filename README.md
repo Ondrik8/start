@@ -23,7 +23,7 @@
 
 [/Radio attack](https://github.com/insecurityofthings/jackit)
 
-[/CAR attack](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cars.md)
+[/SOFT](https://ondrik8.github.io/soft/)
 
 [/HARD drive attack](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
