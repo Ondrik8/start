@@ -21,7 +21,7 @@
 
 [/ByPass_AV](https://ondrik8.github.io/byPass_AV/)
 
-[/Security](https://ondrik8.github.io/-security/)
+[/Security](https://ondrik8.github.io/-Security/)
 
 [/SOFT](https://ondrik8.github.io/soft/)
 
