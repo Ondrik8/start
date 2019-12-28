@@ -3,7 +3,9 @@
 
 #### Contact:
 -telegram:          >  `@ondrik8`
+
 -twitter(private)   >  `@ondrik8_apt28`
+
 -jabber             >  `ondrik8@xmpp.jp`
 
 
