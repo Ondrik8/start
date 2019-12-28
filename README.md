@@ -25,7 +25,7 @@
 
 [/SOFT](https://ondrik8.github.io/soft/)
 
-[/HARD drive attack](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/HARD drive attack](https://ondrik8.github.io/HARD_device_attack/)
 
 [/Solder hand_made](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
