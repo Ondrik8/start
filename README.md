@@ -19,7 +19,7 @@
 
 [/MITM](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
-[/RED-Team](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/RED-Team](https://ondrik8.github.io/RED_Team/)
 
 [/POST эксплуатация](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
