@@ -43,5 +43,7 @@
 
 [/Raznoe](https://github.com/trimstray/the-book-of-secret-knowledge)
 
+[Zametki](https://ondrik8.github.io/zametki/)
+
 [/CTF](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
