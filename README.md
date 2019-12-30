@@ -1,7 +1,7 @@
 ```text
 
      .####..                      
- ..###########.                   
+  .###########.                   
  .##############.                    Приветствую на своем ресурсе!
 :#################.                  Здесь [*но не все!] описаны основные мои методики, 
 %##################.                 фишки, трюки и многое другое.
@@ -29,7 +29,7 @@
      
 Contact:
 -telegram:         >  @ondrik8
--twitter(private)  >  @ondrik8_apt28
+-twitter(private)  >  @ondrik8_v8
 -jabber            >  ondrik8@xmpp.jp                                                          Ч.У.Е
 
 ```
@@ -65,7 +65,7 @@ Contact:
 
 [/Исcледования](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
-[/Source code](https://github.com/threatland/TL-BOTS/tree/master/TL.BOTNET)
+[/Source code](https://github.com/alphaSeclab/awesome-rat/blob/master/Readme_en.md)
 
 [/Raznoe](https://github.com/trimstray/the-book-of-secret-knowledge)
 
