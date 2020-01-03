@@ -71,5 +71,5 @@ Contact:
 
 [/Zametki](https://ondrik8.github.io/zametki/)
 
-[/RaspberyPI](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
+[/RaspberyPI](https://github.com/thibmaek/awesome-raspberry-pi)
 
