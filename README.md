@@ -53,7 +53,7 @@ Contact:
 
 [/POST эксплуатация](https://ondrik8.github.io/Post_exploit/)
 
-[/Боковое движенеие](https://ondrik8.github.io/lateral_movement/)
+[/lateral movement](https://ondrik8.github.io/lateral_movement/)
 
 [/OSCP pasties](https://ondrik8.github.io/OSCP_note/)
 
