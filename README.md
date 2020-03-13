@@ -41,6 +41,8 @@ Contact:
 
 ### Основные темы: 
 
+[/C2/Command&Control](https://ondrik8.github.io/C2/)
+
 [/LINKS/](https://ondrik8.github.io/Links/)
 
 [/EXPLOIT/Заражение](https://ondrik8.github.io/exploit/)
