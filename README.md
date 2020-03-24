@@ -41,6 +41,8 @@ Contact:
 
 ### Основные темы: 
 
+[/AWS Arsenal](https://github.com/stuhirst/awssecurity/blob/master/arsenal.md)
+
 [/machine_learning_security](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit)
 
 [/C2/Command&Control](https://ondrik8.github.io/C2/)
