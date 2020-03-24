@@ -41,6 +41,8 @@ Contact:
 
 ### Основные темы: 
 
+[/machine_learning_security](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit)
+
 [/C2/Command&Control](https://ondrik8.github.io/C2/)
 
 [/LINKS/](https://ondrik8.github.io/Links/)
