@@ -51,6 +51,8 @@ Contact:
 
 [/EXPLOIT/Заражение](https://ondrik8.github.io/exploit/)
 
+[/Fuck_UAC](https://ondrik8.github.io/Fuck_UAC)
+
 [/Web_attack](https://ondrik8.github.io/Web_attack/)
 
 [/RED-Team](https://ondrik8.github.io/RED_Team/)
