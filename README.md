@@ -73,7 +73,7 @@ Contact:
 
 [/Solder hand_made](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
-[/Исcледования]()
+[/Исcледования](https://mrxn.net/hacktools/655.html)
 
 [/Source code](https://github.com/alphaSeclab/awesome-rat/blob/master/Readme_en.md)
 
