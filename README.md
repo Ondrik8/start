@@ -39,7 +39,7 @@
 Contact:
 -telegram:         >  @ondrik8
 -twitter(private)  >  @ondrik_v8
--jabber            >  ondrik8@xmpp.jp                                                          Ч.У.Е
+-jabber            >  ondrik8@xmpp.jp                                                          
 
 ```
 
