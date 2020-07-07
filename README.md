@@ -56,6 +56,8 @@ Contact:
 
 [/C2/Command&Control](https://ondrik8.github.io/C2/)
 
+[/Metasploit](https://ondrik8.github.io/metasploit/)
+
 [/LINKS/](https://ondrik8.github.io/Links/)
 
 [/EXPLOIT/Заражение](https://ondrik8.github.io/exploit/)
