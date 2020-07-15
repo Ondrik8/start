@@ -42,7 +42,7 @@ Contact:
 -jabber            >  ondrik8@xmpp.jp                                                          
 
 
-Donate: 3CiomyiR6b7fXH3ZVpRNruiTtsEVVXAZyt
+Donate BTC: 3CiomyiR6b7fXH3ZVpRNruiTtsEVVXAZyt
 
 ```
 
