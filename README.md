@@ -41,9 +41,10 @@ Contact:
 -twitter(private)  >  @ondrik_v8
 -jabber            >  ondrik8@xmpp.jp                                                          
 
-```
 
 Donate: 3CiomyiR6b7fXH3ZVpRNruiTtsEVVXAZyt
+
+```
 
 
 
