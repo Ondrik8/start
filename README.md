@@ -71,7 +71,7 @@ Donate BTC: 3CiomyiR6b7fXH3ZVpRNruiTtsEVVXAZyt
 
 [/Web_attack](https://ondrik8.github.io/Web_attack/)
 
-[/RED-Team](https://attack.mitre.org/)
+[/RED-Team](https://ondrik8.github.io/RED-Team)
 
 [/POST эксплуатация](https://ondrik8.github.io/Post_exploit/)
 
