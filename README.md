@@ -57,6 +57,8 @@ Donate BTC: 3CiomyiR6b7fXH3ZVpRNruiTtsEVVXAZyt
 
 [/C2/Command&Control](https://ondrik8.github.io/C2/)
 
+[/Cobalt-Strike](https://github.com/zer0yu/Awesome-CobaltStrike)
+
 [/Metasploit](https://ondrik8.github.io/metasploit/)
 
 [/LINKS/](https://ondrik8.github.io/Links/)
