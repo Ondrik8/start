@@ -99,3 +99,4 @@ Donate BTC: 3CiomyiR6b7fXH3ZVpRNruiTtsEVVXAZyt
 
 [/RaspberyPI](https://github.com/thibmaek/awesome-raspberry-pi)
 
+[/FREE_Energy](https://github.com/Ondrik8/Free_Energy/blob/main/README.md)
