@@ -89,7 +89,7 @@ Donate BTC: 3CiomyiR6b7fXH3ZVpRNruiTtsEVVXAZyt
 
 [/Solder hand_made](https://github.com/Ondrik8/blog.github.io/edit/master/README.md)
 
-[/Исcледования](https://github.com/Ondrik8/start/blob/master/shiva_7.jpg)
+[/Deep_WEB_LIST](https://github.com/Ondrik8/Links/blob/master/Deep%20Web%20Onion%20Links%20List.pdf)
 
 [/Source code](https://github.com/alphaSeclab/awesome-rat/blob/master/Readme_en.md)
 
